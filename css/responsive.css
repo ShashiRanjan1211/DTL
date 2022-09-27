@@ -1,0 +1,74 @@
+@media only screen and (max-width: 955px) {
+    .nav-list {
+        flex-direction: column;
+        align-items:flex-start;
+
+    }
+    .box-main {
+        flex-direction: column-reverse;
+        max-width: 100%;
+    }
+    .navbar {
+        flex-direction: column;
+        transition: all 0.01s linear;
+        height: 550px;
+    }
+    .burger {
+        display: inline-block;
+        cursor: pointer;
+    }
+    .h-nav-resp {
+        height: 80px;
+    }
+    .v-class-resp {
+        opacity: 0%;
+        pointer-events: none;
+    }
+    #intro{
+        font-size: 20px;
+        font-family: 'Luckiest Guy', cursive;
+    }
+    h3 {
+        font-size: 30px;
+        font-family: 'Luckiest Guy', cursive;
+    }
+    .img {
+        display: none;
+        max-width: 100px;
+        border: 2px solid white;
+        border-radius: 150px;
+        margin: auto;
+    }
+    .sec2 {
+        overflow: hidden;
+    }
+    
+    #clockcontainer {
+        height: 40vw;
+        width: 40vw;
+    }
+    table,
+    th,
+    td {
+        font-size: 2vh;
+    }
+    .fouth-notes {
+        padding: 10px;
+    }
+    .thbold {
+        font-size: 2vh;
+        text-align: center;
+    }
+}
+ /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+ @media screen and (max-width: 600px) {
+    .col-25, .col-75, input[type=submit] {
+      width: 100%;
+      margin-top: 0;
+    }
+  }
+
+
+
+
+  
