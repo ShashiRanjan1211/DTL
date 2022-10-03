@@ -1,1 +1,1 @@
-# this is my Design Thinking Lab (DTL) project 
+# This is my Design Thinking Lab (DTL) project 
