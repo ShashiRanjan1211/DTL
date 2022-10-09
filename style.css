@@ -795,12 +795,12 @@ h2 {
 }
 
 .card3 {
-  background: url("./img/Blog-2021-05-24T124802.794.png")
+  background: url("./img/Screenshot (1700).png")
     center center no-repeat;
   background-size: 300px;
 }
 .card3:hover {
-  background: url("./img/Blog-2021-05-24T124802.794.png")
+  background: url("./img/Screenshot (1700).png")
     center center no-repeat;
   background-size: 400px;
 }
@@ -813,13 +813,12 @@ h2 {
 
 
 .card4 {
-  background: url("./img/Dp.png") center center no-repeat;
+  background: url("./img/Screenshot (1699).png") center center no-repeat;
   background-size: 300px;
 }
 .card4:hover {
-  /* background: url("https://i.pinimg.com/736x/8f/a0/51/8fa051251f5ac2d0b756027089fbffde--terry-o-neill-al-pacino.jpg")
-    left center no-repeat; */
-  background: url("./img/Dp.png") center center no-repeat;
+
+  background: url("./img/Screenshot (1699).png") center center no-repeat;
 
   background-size: 400px;
 }
